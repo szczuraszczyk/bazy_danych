@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    height: 100vh;
+    margin: 0;
+}
+
+.tabela {
+    border: solid 1px black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+table, th, td, tr {
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th, td, tr {
+    padding: 5px;
+}
